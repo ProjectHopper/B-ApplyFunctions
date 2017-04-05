@@ -1,4 +1,6 @@
- # install and load packages 
+# https://www.r-bloggers.com/how-to-combine-google-maps-with-a-choropleth-shapefile-of-holland-in-r-amsterdam-neighbourhoods-postal-codes-by-number-of-customers/
+
+# install and load packages 
 library(ggmap) 
 library(RgoogleMaps) 
 library(maptools) 
